@@ -1,0 +1,4 @@
+[submodule "marcus1car_blog/public"]
+	path = marcus1car_blog/public
+	url = git@github.com:Marcus1car/marcus1car.github.io.git
+	branch = main

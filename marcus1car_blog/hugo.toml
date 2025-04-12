@@ -1,0 +1,12 @@
+baseURL = 'https://marcus1car.github.io/'
+languageCode = 'en-us'
+title = 'Marcus1car Blog'
+theme = 'hugo-paper'
+
+[params]
+  color = 'linen'
+  github = 'Marcus1car'  
+  linkedin = 'marcus-poirot-088278341' 
+  avatar = 'https://c4.wallpaperflare.com/wallpaper/621/966/377/evangelion-neon-genesis-evangelion-ramiel-neon-genesis-evangelion-wallpaper-preview.jpg'
+  name = 'Marcus1car'
+  bio = "Hey, I'm @Marcus1car | Cybersecurity Enthusiast | EPITA Student"
